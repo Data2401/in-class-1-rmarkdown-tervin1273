@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Tracy Ervin"
 date: "Data 2401"
 output: html_document
 ---
@@ -31,4 +31,23 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
- 
+
+# your work here
+
+## Wise Words:
+>"Leap and the net will appear"    (https://medium.com/afwp/leap-and-the-net-will-appear-maybe-6bb1c24039ad)
+
+## My Semester:
+
+| Course Number | Course Title | Instructor Name |
+|:--------------|:-------------|:-----------------|
+| __2422__      | _Linear Algebra and Multivariable Calculus_  | Tecarro |
+| __3302__      | _Probability and Statistics_                 | Simeonov |
+| __2401__      | _Data Science 1_                             | Shoemaker |
+| __2311__      | _Data Structures and Algorithms W/Python_    | Henderson |
+
+## I Recommend: 
+### -The author Eckart Tolle
+
+
+
